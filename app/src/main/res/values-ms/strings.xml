@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kacaukacau</string>
+    <string name="hello_world">Apa khabar!</string>
+    <string name="hello_world2">Apa khabar sekali lagi!</string>
+    <string name="users_name_edit_text">Nama anda</string>
+    <string name="happy_q">Adakah kamu gembira?</string>
+    <string name="answer_yes_button">Ya</string>
+    <string name="answer_no_button">Tidak</string>
+    <string name="hint_yes">Pilih saya!</string>
+    <string name="hint_no">Jangan pilih saya!</string>
+
+</resources>

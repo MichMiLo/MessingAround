@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         String usersName = String.valueOf(userNameEditText.getText());
 
-        String yourYesResponse = "Thats the spirit " + usersName + "!";
+        String yourYesResponse = "That's the spirit " + usersName + "!";
 
         Toast.makeText(this, yourYesResponse, Toast.LENGTH_SHORT).show();
     }
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         String usersName = String.valueOf(userNameEditText.getText());
 
-        String yourNoResponse = "Aww cheer up " + usersName + "!";
+        String yourNoResponse = "Awwwh cheer up " + usersName + "!";
 
         Toast.makeText(this, yourNoResponse, Toast.LENGTH_SHORT).show();
     }
